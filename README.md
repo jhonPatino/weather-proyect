@@ -41,6 +41,20 @@ El workflow en GitHub Actions se ejecuta una vez al dia con el cron:
 Esto significa que la actualizacion es periodica (diaria), no en tiempo real continuo por segundo.
 En cada corrida se consulta la API de OpenWeather, se agregan nuevos registros y se guarda el resultado en modo append.
 
+## Como corre en GitHub Actions
+
+Cada ejecucion del workflow crea una maquina temporal en GitHub, construye el contenedor Docker y ejecuta la ingesta dentro de ese contenedor.
+Cuando termina el job, tanto la maquina como el contenedor se destruyen (son efimeros).
+
+Flujo de cada corrida:
+
+1. Trigger por cron diario o ejecucion manual.
+2. Checkout del repositorio.
+3. Build de imagen Docker.
+4. Run del contenedor con `OWM_API_KEY` desde Secrets.
+5. Actualizacion de `data/weather_boyaca.csv` y cache de geocodificacion.
+6. Commit y push si hubo cambios.
+
 ## Campos del CSV generado
 
 El archivo `data/weather_boyaca.csv` se genera o actualiza en modo append con estos campos:
