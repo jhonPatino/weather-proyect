@@ -18,7 +18,7 @@ Nombre del secreto:
 OWM_API_KEY=tu_key python fetch_weather.py
 ```
 
-El script consulta estas ciudades (country code `CO`):
+El script consulta estos municipios (country code `CO`):
 
 - 123 municipios de Boyaca
 
@@ -94,7 +94,7 @@ El archivo `data/weather_boyaca.csv` se genera o actualiza en modo append con es
 - `base`
 - `cod`
 
-## Nota para Docker
+## Contenedor en el workflow
 
-El companero encargado del contenedor Docker tomara `fetch_weather.py` y `requirements.txt` para empaquetar la imagen.
-Si se despliega en contenedor, el comportamiento esperado es el mismo: ejecutar el script con una frecuencia diaria para mantener actualizado el dataset.
+El contenedor no se mantiene vivo de forma permanente.
+En cada ejecucion del workflow se construye y ejecuta un contenedor temporal para correr la ingesta; al finalizar el job, se destruye.
