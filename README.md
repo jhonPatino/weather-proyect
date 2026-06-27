@@ -1,6 +1,6 @@
 # weather-ingesta
 
-Proyecto para la ingesta horaria de datos climaticos de los 123 municipios de Boyaca usando la API de OpenWeatherMap.
+Proyecto para la ingesta diaria de datos climaticos de los 123 municipios de Boyaca usando la API de OpenWeatherMap.
 
 ## Requisito de secreto en GitHub
 
@@ -34,11 +34,11 @@ Tambien guarda cache de geocodificacion en `data/boyaca_geocoding_cache.json` pa
 
 ## Flujo automatico
 
-El workflow en GitHub Actions se ejecuta cada hora con el cron:
+El workflow en GitHub Actions se ejecuta una vez al dia con el cron:
 
-- `0 * * * *`
+- `0 0 * * *`
 
-Esto significa que la actualizacion es periodica (cada hora), no en tiempo real continuo por segundo.
+Esto significa que la actualizacion es periodica (diaria), no en tiempo real continuo por segundo.
 En cada corrida se consulta la API de OpenWeather, se agregan nuevos registros y se guarda el resultado en modo append.
 
 ## Campos del CSV generado
@@ -83,4 +83,4 @@ El archivo `data/weather_boyaca.csv` se genera o actualiza en modo append con es
 ## Nota para Docker
 
 El companero encargado del contenedor Docker tomara `fetch_weather.py` y `requirements.txt` para empaquetar la imagen.
-Si se despliega en contenedor, el comportamiento esperado es el mismo: ejecutar el script con una frecuencia de 1 hora para mantener actualizado el dataset.
+Si se despliega en contenedor, el comportamiento esperado es el mismo: ejecutar el script con una frecuencia diaria para mantener actualizado el dataset.
