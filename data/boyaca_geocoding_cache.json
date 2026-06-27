@@ -1,0 +1,863 @@
+{
+  "Chiquiza": {
+    "lat": 5.6053336,
+    "lon": -73.4849171,
+    "name": "Chíquiza",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chivata": {
+    "lat": 5.5573419,
+    "lon": -73.2830433,
+    "name": "Chivatá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Combita": {
+    "lat": 5.6336851,
+    "lon": -73.3243472,
+    "name": "Cómbita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Cucaita": {
+    "lat": 5.5431182,
+    "lon": -73.4547788,
+    "name": "Cucaita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Motavita": {
+    "lat": 5.5763426,
+    "lon": -73.3673994,
+    "name": "Motavita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Oicata": {
+    "lat": 5.5944311,
+    "lon": -73.3081529,
+    "name": "Oicatá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Samaca": {
+    "lat": 5.4917892,
+    "lon": -73.48529,
+    "name": "Samacá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Siachoque": {
+    "lat": 5.5130681,
+    "lon": -73.2448863,
+    "name": "Siachoque",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sora": {
+    "lat": 5.5668504,
+    "lon": -73.4499197,
+    "name": "Sora",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Soraca": {
+    "lat": 5.5011281,
+    "lon": -73.3328656,
+    "name": "Soracá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sotaquira": {
+    "lat": 5.765453,
+    "lon": -73.2478186,
+    "name": "Sotaquirá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Toca": {
+    "lat": 5.5651119,
+    "lon": -73.1846786,
+    "name": "Toca",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tunja": {
+    "lat": 5.5324313,
+    "lon": -73.3616014,
+    "name": "Tunja",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tuta": {
+    "lat": 5.6902219,
+    "lon": -73.2277161,
+    "name": "Tuta",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Ventaquemada": {
+    "lat": 5.3666155,
+    "lon": -73.5216361,
+    "name": "Ventaquemada",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chiscas": {
+    "lat": 6.5535107,
+    "lon": -72.5003939,
+    "name": "Chiscas",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "El Cocuy": {
+    "lat": 6.4076711,
+    "lon": -72.4457503,
+    "name": "El Cocuy",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "El Espino": {
+    "lat": 6.4825581,
+    "lon": -72.4952026,
+    "name": "El Espino",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Guacamayas": {
+    "lat": 6.4599118,
+    "lon": -72.5011643,
+    "name": "Guacamayas",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Guican": {
+    "lat": 6.4616779,
+    "lon": -72.4119937,
+    "name": "Güicán",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Panqueba": {
+    "lat": 6.4426674,
+    "lon": -72.4590342,
+    "name": "Panqueba",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Labranzagrande": {
+    "lat": 5.5629086,
+    "lon": -72.5779936,
+    "name": "Labranzagrande",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Pajarito": {
+    "lat": 5.2932098,
+    "lon": -72.7027682,
+    "name": "Pajarito",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Paya": {
+    "lat": 5.6249751,
+    "lon": -72.4234415,
+    "name": "Paya",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Pisba": {
+    "lat": 5.71984,
+    "lon": -72.4858697,
+    "name": "Pisba",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Berbeo": {
+    "lat": 5.2261415,
+    "lon": -73.1265012,
+    "name": "Berbeo",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Campohermoso": {
+    "lat": 5.0315405,
+    "lon": -73.1044489,
+    "name": "Campohermoso",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Miraflores": {
+    "lat": 5.1954684,
+    "lon": -73.1439584,
+    "name": "Miraflores",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Paez": {
+    "lat": 5.1020137,
+    "lon": -73.0521759,
+    "name": "Páez",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "San Eduardo": {
+    "lat": 5.2235178,
+    "lon": -73.0771745,
+    "name": "San Eduardo",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Zetaquira": {
+    "lat": 5.2818853,
+    "lon": -73.1678186,
+    "name": "Zetaquira",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Boyaca": {
+    "lat": 5.4545233,
+    "lon": -73.3615406,
+    "name": "Boyacá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Cienega": {
+    "lat": 5.4097513,
+    "lon": -73.2954835,
+    "name": "Ciénega",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Jenesano": {
+    "lat": 5.3854342,
+    "lon": -73.3644324,
+    "name": "Jenesano",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Nuevo Colon": {
+    "lat": 5.3549669,
+    "lon": -73.45722,
+    "name": "Nuevo Colón",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Ramiriqui": {
+    "lat": 5.4005061,
+    "lon": -73.3358841,
+    "name": "Ramiriquí",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Rondon": {
+    "lat": 5.3582102,
+    "lon": -73.2082838,
+    "name": "Rondón",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tibana": {
+    "lat": 5.3179886,
+    "lon": -73.3966149,
+    "name": "Tibaná",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Turmeque": {
+    "lat": 5.3240877,
+    "lon": -73.4905833,
+    "name": "Turmequé",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Umbita": {
+    "lat": 5.22123,
+    "lon": -73.457038,
+    "name": "Úmbita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Viracacha": {
+    "lat": 5.4350237,
+    "lon": -73.2961677,
+    "name": "Viracachá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chinavita": {
+    "lat": 5.1689616,
+    "lon": -73.3687216,
+    "name": "Chinavita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Garagoa": {
+    "lat": 5.0822246,
+    "lon": -73.3643092,
+    "name": "Garagoa",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Macanal": {
+    "lat": 4.972296,
+    "lon": -73.3200207,
+    "name": "Macanal",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Pachavita": {
+    "lat": 5.1405434,
+    "lon": -73.3981479,
+    "name": "Pachavita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "San Luis de Gaceno": {
+    "lat": 4.8206297,
+    "lon": -73.1678724,
+    "name": "San Luís de Gaceno",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Santa Maria": {
+    "lat": 4.8613796,
+    "lon": -73.2618803,
+    "name": "Santa María",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Boavita": {
+    "lat": 6.3289722,
+    "lon": -72.5822778,
+    "name": "Boavita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Covarachia": {
+    "lat": 6.5009513,
+    "lon": -72.7382915,
+    "name": "Covarachía",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "La Uvita": {
+    "lat": 6.3180471,
+    "lon": -72.5603339,
+    "name": "La Uvita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "San Mateo": {
+    "lat": 6.4017573,
+    "lon": -72.5559807,
+    "name": "San Mateo",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sativanorte": {
+    "lat": 6.1319156,
+    "lon": -72.7076031,
+    "name": "Sativanorte",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sativasur": {
+    "lat": 6.0935358,
+    "lon": -72.7126868,
+    "name": "Sativasur",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Soata": {
+    "lat": 6.335189,
+    "lon": -72.6803643,
+    "name": "Soatá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Susacon": {
+    "lat": 6.2310843,
+    "lon": -72.6903934,
+    "name": "Susacón",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tipacoque": {
+    "lat": 6.4212152,
+    "lon": -72.6913888,
+    "name": "Tipacoque",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Briceno": {
+    "lat": 5.6908712,
+    "lon": -73.9234546,
+    "name": "Briceño",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Buenavista": {
+    "lat": 5.5116548,
+    "lon": -73.943107,
+    "name": "Buenavista",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Caldas": {
+    "lat": 5.554594,
+    "lon": -73.8654589,
+    "name": "Caldas",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chiquinquira": {
+    "lat": 5.6182733,
+    "lon": -73.8167476,
+    "name": "Chiquinquirá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Coper": {
+    "lat": 5.4757954,
+    "lon": -74.0452233,
+    "name": "Coper",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "La Victoria": {
+    "lat": 5.5235383,
+    "lon": -74.2346462,
+    "name": "La Victoria",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Maripi": {
+    "lat": 5.5495156,
+    "lon": -74.0046921,
+    "name": "Maripí",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Muzo": {
+    "lat": 5.5321291,
+    "lon": -74.1027796,
+    "name": "Muzo",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Otanche": {
+    "lat": 5.6599976,
+    "lon": -74.1816643,
+    "name": "Otanche",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Pauna": {
+    "lat": 5.6573654,
+    "lon": -73.9789416,
+    "name": "Pauna",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Quipama": {
+    "lat": 5.52297,
+    "lon": -74.1812499,
+    "name": "Quípama",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Saboya": {
+    "lat": 5.6975265,
+    "lon": -73.7656779,
+    "name": "Saboyá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "San Miguel de Sema": {
+    "lat": 5.5189895,
+    "lon": -73.7229967,
+    "name": "San Miguel de Sema",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "San Pablo de Borbur": {
+    "lat": 5.6577541,
+    "lon": -74.0625068,
+    "name": "San Pablo de Borbur",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tunungua": {
+    "lat": 5.7300168,
+    "lon": -73.9329862,
+    "name": "Tununguá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Almeida": {
+    "lat": 4.971164,
+    "lon": -73.3788228,
+    "name": "Almeida",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chivor": {
+    "lat": 4.8886738,
+    "lon": -73.3694823,
+    "name": "Chivor",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Guateque": {
+    "lat": 5.0062875,
+    "lon": -73.4731334,
+    "name": "Guateque",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Guayata": {
+    "lat": 4.9647784,
+    "lon": -73.4907277,
+    "name": "Guayatá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "La Capilla": {
+    "lat": 5.0957919,
+    "lon": -73.4446854,
+    "name": "La Capilla",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Somondoco": {
+    "lat": 4.9859635,
+    "lon": -73.432617,
+    "name": "Somondoco",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sutatenza": {
+    "lat": 5.023105,
+    "lon": -73.4508227,
+    "name": "Sutatenza",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tenza": {
+    "lat": 5.0767291,
+    "lon": -73.4197886,
+    "name": "Tenza",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Arcabuco": {
+    "lat": 5.754304,
+    "lon": -73.4364107,
+    "name": "Arcabuco",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chitaraque": {
+    "lat": 6.0279763,
+    "lon": -73.4469335,
+    "name": "Chitaraque",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Gachantiva": {
+    "lat": 5.7516072,
+    "lon": -73.5482821,
+    "name": "Gachantivá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Moniquira": {
+    "lat": 5.8763096,
+    "lon": -73.5732077,
+    "name": "Moniquirá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Raquira": {
+    "lat": 5.5380119,
+    "lon": -73.6322224,
+    "name": "Ráquira",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sachica": {
+    "lat": 5.5844857,
+    "lon": -73.5427927,
+    "name": "Sáchica",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "San Jose de Pare": {
+    "lat": 6.0176196,
+    "lon": -73.5478516,
+    "name": "San José de Pare",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Santa Sofia": {
+    "lat": 5.7135898,
+    "lon": -73.603146,
+    "name": "Santa Sofía",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Santana": {
+    "lat": 6.0574905,
+    "lon": -73.4821629,
+    "name": "Santana",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sutamarchan": {
+    "lat": 5.6204803,
+    "lon": -73.6204419,
+    "name": "Sutamarchán",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tinjaca": {
+    "lat": 5.5795658,
+    "lon": -73.6467385,
+    "name": "Tinjacá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Togui": {
+    "lat": 5.9377577,
+    "lon": -73.5130813,
+    "name": "Togüí",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Villa de Leyva": {
+    "lat": 5.633825,
+    "lon": -73.5239684,
+    "name": "Villa de Leyva",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Aquitania": {
+    "lat": 5.5175808,
+    "lon": -72.88315,
+    "name": "Aquitania",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Cuitiva": {
+    "lat": 5.5802753,
+    "lon": -72.9661605,
+    "name": "Cuítiva",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Firavitoba": {
+    "lat": 5.669188,
+    "lon": -72.9933907,
+    "name": "Firavitoba",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Gameza": {
+    "lat": 5.8019513,
+    "lon": -72.8049747,
+    "name": "Gámeza",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Iza": {
+    "lat": 5.6123008,
+    "lon": -72.9794775,
+    "name": "Iza",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Mongua": {
+    "lat": 5.7553249,
+    "lon": -72.7982582,
+    "name": "Mongua",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Mongui": {
+    "lat": 5.7222032,
+    "lon": -72.849438,
+    "name": "Monguí",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Nobsa": {
+    "lat": 5.7705609,
+    "lon": -72.9397458,
+    "name": "Nobsa",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Pesca": {
+    "lat": 5.5582793,
+    "lon": -73.0514809,
+    "name": "Pesca",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Sogamoso": {
+    "lat": 5.7148307,
+    "lon": -72.9279328,
+    "name": "Sogamoso",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tibasosa": {
+    "lat": 5.7455889,
+    "lon": -73.0035531,
+    "name": "Tibasosa",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Topaga": {
+    "lat": 5.7688893,
+    "lon": -72.8320352,
+    "name": "Tópaga",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tota": {
+    "lat": 5.5610508,
+    "lon": -72.9858895,
+    "name": "Tota",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Belen": {
+    "lat": 5.9894512,
+    "lon": -72.9133125,
+    "name": "Belén",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Busbanza": {
+    "lat": 5.8307833,
+    "lon": -72.8838946,
+    "name": "Busbanzá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Cerinza": {
+    "lat": 5.9558753,
+    "lon": -72.9478866,
+    "name": "Cerinza",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Corrales": {
+    "lat": 5.8298426,
+    "lon": -72.8439007,
+    "name": "Corrales",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Duitama": {
+    "lat": 5.8277055,
+    "lon": -73.0338939,
+    "name": "Duitama",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Floresta": {
+    "lat": 5.8598286,
+    "lon": -72.9188214,
+    "name": "Floresta",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Paipa": {
+    "lat": 5.7812701,
+    "lon": -73.1176532,
+    "name": "Paipa",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Santa Rosa de Viterbo": {
+    "lat": 5.8744825,
+    "lon": -72.9823638,
+    "name": "Santa Rosa de Viterbo",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tutaza": {
+    "lat": 6.0320585,
+    "lon": -72.8567033,
+    "name": "Tutazá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Beteitiva": {
+    "lat": 5.9108483,
+    "lon": -72.8089216,
+    "name": "Betéitiva",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Chita": {
+    "lat": 6.1871968,
+    "lon": -72.4729374,
+    "name": "Chita",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Jerico": {
+    "lat": 6.1464174,
+    "lon": -72.5704144,
+    "name": "Jericó",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Paz de Rio": {
+    "lat": 5.9852851,
+    "lon": -72.7490995,
+    "name": "Paz de Río",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Socha": {
+    "lat": 5.997488,
+    "lon": -72.6911515,
+    "name": "Socha",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Socota": {
+    "lat": 6.0412437,
+    "lon": -72.6365858,
+    "name": "Socotá",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Tasco": {
+    "lat": 5.9099806,
+    "lon": -72.7812406,
+    "name": "Tasco",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Cubara": {
+    "lat": 7.0020076,
+    "lon": -72.1089218,
+    "name": "Cubará",
+    "state": "Boyacá",
+    "country": "CO"
+  },
+  "Puerto Boyaca": {
+    "lat": 5.9756376,
+    "lon": -74.5882837,
+    "name": "Puerto Boyacá",
+    "state": "Boyacá",
+    "country": "CO"
+  }
+}

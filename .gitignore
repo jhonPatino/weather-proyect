@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local environment files
+.env
+.env.*
+
+# OS/editor junk
+.DS_Store
+.vscode/
