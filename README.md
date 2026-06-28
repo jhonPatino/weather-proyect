@@ -57,6 +57,19 @@ Flujo de cada corrida:
 
 ## Campos del CSV generado
 
+## Dashboard (Streamlit)
+
+Para explorar los datos de forma interactiva (mapa, rankings, distribuciones y evolucion):
+
+```bash
+pip install -r requirements-dashboard.txt
+streamlit run dashboard.py
+```
+
+El dashboard lee `data/weather_boyaca.csv` y permite filtrar por corrida, condicion del clima y municipio.
+
+## Campos del CSV generado
+
 El archivo `data/weather_boyaca.csv` se genera o actualiza en modo append con estos campos:
 
 - `timestamp_utc` (UTC ISO)
