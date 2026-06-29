@@ -128,7 +128,7 @@ def inject_css():
 html, body, [class*="css"] { font-family: Archivo, sans-serif; }
 
 /* Limpieza del chrome de Streamlit */
-[data-testid="stToolbar"], [data-testid="stDecoration"], #MainMenu, footer { display: none; }
+[data-testid="stDecoration"], #MainMenu, footer { display: none; }
 [data-testid="stHeader"] { background: transparent; }
 .block-container { padding-top: 2.2rem; padding-bottom: 4rem; max-width: 1320px; }
 
