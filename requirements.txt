@@ -1,2 +1,4 @@
 requests
--r requirements-dashboard.txt
+streamlit
+pandas
+plotly
